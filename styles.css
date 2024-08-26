@@ -542,6 +542,7 @@ span{
   }
   .home-img img{
     width: 56vw;
+    align-content: center;
   }
   .contact form{
     flex-direction: column;
