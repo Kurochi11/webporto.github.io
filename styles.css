@@ -540,19 +540,8 @@ span{
     align-items: center;
     text-align: center;
   }
-  .home-img{
+  .home-img img{
     width: 56vw;
-  }
-  .about{
-    flex-direction: column-reverse;
-    text-align: center;
-  }
-  .about h2{
-    text-align: center;
-    margin: 2rem 0;
-  }
-  .about img{
-    width: 52vw;
   }
   .contact form{
     flex-direction: column;
