@@ -505,7 +505,7 @@ span{
 }
 @media(max-width:1285px){
   #menu-icon{
-    display-block;
+    display: block;
   }
   .navbar{
     position: absolute;
